@@ -20,12 +20,12 @@ Senior professional focused on engineering, backend development, starting to bui
 
 ### 📊 Automated Coding Metrics
 
-#### Most Used Languages
-<!-- Dynamic top languages widget -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pato-GO&layout=compact&theme=vision-friendly-dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+<p align="left">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Pato-GO&layout=compact&theme=vision-friendly-dark&hide_border=true" alt="Top Langs" />
+</p>
 
-#### Profile Activity
-<!-- Dynamic account stats widget -->
-[![Pato-GO GitHub stats](https://github-readme-stats.vercel.app/api?username=Pato-GO&show_icons=true&theme=vision-friendly-dark&hide_border=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+<p align="left">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Pato-GO&show_icons=true&theme=vision-friendly-dark&hide_border=true&count_private=true" alt="Pato-GO GitHub stats" />
+</p>
 
 ---
