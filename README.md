@@ -20,6 +20,23 @@ Senior professional focused on engineering, backend development, starting to bui
 
 ### 📊 Automated Coding Metrics
 
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h4>Profile Activity</h4>
+      <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Pato-GO&show_icons=true&theme=vision-friendly-dark&hide_border=true&count_private=true" alt="Pato-GO GitHub stats" width="100%" />
+    </td>
+    <td width="50%" valign="top">
+      <h4>Core Core Capabilities</h4>
+      <ul>
+        <li><b>Backend & Systems:</b> Node.js, TypeScript, JavaScript</li>
+        <li><b>Automation & AI:</b> Python, AI Agents Development</li>
+        <li><b>DevOps & Infra:</b> Docker, GitHub Actions</li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
 <p align="left">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Pato-GO&layout=compact&theme=vision-friendly-dark&hide_border=true&count_private=true" alt="Top Langs" />
 </p>
