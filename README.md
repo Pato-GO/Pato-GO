@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hi there, I'm Pato-GO 👋
 
-<!--
-**Pato-GO/Pato-GO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Senior professional focused on engineering, backend development, starting to build automated tools and AI agents.. 
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack & Tools
+
+#### Languages & Core
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![NodeJS](https://img.shields.io/badge/node.js-%2343853D.svg?style=for-the-badge&logo=node-dot-js&logoColor=white)
+
+#### DevOps & Automation
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/github%20actions-%232088FF.svg?style=for-the-badge&logo=githubactions&logoColor=white)
+
+---
+
+### 📊 Automated Coding Metrics
+
+#### Most Used Languages
+<!-- Dynamic top languages widget -->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pato-GO&layout=compact&theme=vision-friendly-dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+
+#### Profile Activity
+<!-- Dynamic account stats widget -->
+[![Pato-GO GitHub stats](https://github-readme-stats.vercel.app/api?username=Pato-GO&show_icons=true&theme=vision-friendly-dark&hide_border=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+
+---
