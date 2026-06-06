@@ -27,7 +27,7 @@ Senior professional focused on engineering, backend development, starting to bui
       <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Pato-GO&show_icons=true&theme=vision-friendly-dark&hide_border=true&count_private=true" alt="Pato-GO GitHub stats" width="100%" />
     </td>
     <td width="50%" valign="top">
-      <h4>Core Core Capabilities</h4>
+      <h4>Core Capabilities</h4>
       <ul>
         <li><b>Backend & Systems:</b> Node.js, TypeScript, JavaScript</li>
         <li><b>Automation & AI:</b> Python, AI Agents Development</li>
