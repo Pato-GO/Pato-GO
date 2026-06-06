@@ -37,12 +37,4 @@ Senior professional focused on engineering, backend development, starting to bui
   </tr>
 </table>
 
-<p align="left">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Pato-GO&layout=compact&theme=vision-friendly-dark&hide_border=true&count_private=true" alt="Top Langs" />
-</p>
-
-<p align="left">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Pato-GO&show_icons=true&theme=vision-friendly-dark&hide_border=true&count_private=true" alt="Pato-GO GitHub stats" />
-</p>
-
 ---
