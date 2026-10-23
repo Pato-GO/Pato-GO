@@ -24,7 +24,7 @@ Senior professional focused on engineering, backend development, starting to bui
   <tr>
     <td width="50%" valign="top">
       <h4>Profile Activity</h4>
-      <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Pato-GO&show_icons=true&theme=vision-friendly-dark&hide_border=true&count_private=true" alt="Pato-GO GitHub stats" width="100%" />
+      <img src="./profile/stats.svg" alt="Pato-GO GitHub stats" width="100%" />
     </td>
     <td width="50%" valign="top">
       <h4>Core Capabilities</h4>
